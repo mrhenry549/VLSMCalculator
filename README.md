@@ -4,5 +4,5 @@ Accepts a CIDR-formatted network address and individual subnet parameters to cal
 
 Currently a command-line utility; will extend to basic GUI soon and sort out the Number of Hosts -> Needed Network Bits conversion bug.
 
-- M
+\- M
 
