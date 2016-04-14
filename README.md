@@ -2,7 +2,7 @@
 
 Accepts a CIDR-formatted network address and individual subnet parameters to calculate individual subnet sizes, ranges, and addresses.
 
-Currently a command-line utility; will extend to basic GUI soon and sort out the Number of Hosts -> Needed Network Bits conversion bug.
+The source code is a complete disaster. I am a beginner trying to implement design patterns (MVC) beyond my level. I need to work on the basics first.
 
 \- M
 
