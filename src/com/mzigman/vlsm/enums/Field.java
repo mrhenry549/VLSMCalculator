@@ -1,0 +1,14 @@
+package com.mzigman.vlsm.enums;
+
+public enum Field {
+	SEQUENCE, 
+	REQUESTED_HOSTS,
+	SLASH,
+	NETWORK_ADDRESS,
+	SUBNET_MASK, 
+	BROADCAST_ADDRESS,
+	HOST_POOL_BEGIN,
+	HOST_POOL_END,
+	HOST_POOL_SIZE,
+	HOST_POOL_RANGE
+}
